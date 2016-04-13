@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Luke Ruebbelke -- Developer -- @simpulton
+  Jonathan Garvey -- Developer -- @jdagarvey
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
+  Angular2, TypeScript, Webpack
