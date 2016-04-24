@@ -1,1 +1,1 @@
-Angular 2
+Angular and Angular 2
